@@ -1,0 +1,65 @@
+jud.alba
+http://www.primariaturda.ro/portal/cluj/turda/portal.nsf/AllByUNID/00001B8E?OpenDocument
+
+jud.arad
+oras.arad.rat.url=http://www.ctparad.ro/
+oras.arad.rat.name=CTP (Compania de Transport Public) Arad
+jud.arges
+jud.bacau
+oras.bacau.rat.url=http://transportpublicbc.ro/
+oras.bacau.rat.name=Transport Public Bacau 
+jud.bihor
+jud.bistrita_nasaud
+jud.botobani
+oras.botosani.rat.url=http://www.eltransbt.ro/
+oras.botosani.rat.name=Eltrans Botosani
+jud.brasov
+jud.braila
+oras.braila.rat.url=http://www.braicar.ro/
+oras.braila.rat.name=Braicar Braila
+jud.bucuresti
+jud.buzau
+jud.caras_severin
+jud.calarasi
+jud.cluj
+jud.constanta
+jud.covasna
+jud.dambovita
+oras.targoviste.rat.url=www.aitt.ro/
+jud.dolj
+oras.craiova.rat.url=www.rat-craiova.ro
+jud.galati
+oras.galati.rat.url=transurbgalati.ro
+jud.giurgiu
+transporturbangiurgiu.ro/
+
+jud.gorj
+jud.harghita
+jud.hunedoara
+http://www.primariahd.ro/pagina/transport-public-local
+http://www.primariadeva.ro/pagina/transport-public-local
+jud.ialomita
+jud.iasi
+jud.ilfov
+jud.maramures
+oras.baia_mare.rat.url=http://www.urbisbaiamare.ro/
+oras.baia_mare.rat.name= SC Urbis SA Baia Mare
+jud.mehedinti
+jud.mures
+jud.neamt
+jud.olt
+jud.prahova
+jud.satu_mare
+jud.salaj
+jud.sibiu
+jud.suceava
+jud.teleorman
+jud.timis
+jud.tulcea
+oras.tulcea.rat.url=www.stp-tulcea.ro
+jud.vaslui
+oras.vaslui.rat.url=http://www.transurb.ro/
+jud.valcea
+oras.ramnicu_valcea.rat.url=http://www.eta-bus.ro/
+jud.vrancea
+oras.focsani.rat.url=http://www.tpfocsani.ro/
